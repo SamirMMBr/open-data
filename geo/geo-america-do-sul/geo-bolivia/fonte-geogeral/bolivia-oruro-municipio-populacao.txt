@@ -1,0 +1,43 @@
+fonte;http://geogeral.com/h/b7/cidbolo.htm
+fonteatualizada;Esta página foi atualizada em 28/08/17
+Fonte;População Cálculo: World Gazetteer (2013). 
+Fontes complementares: IBGE (2015); CIA - The World Factbook (2015); 
+City Population; GeoHive (2015), Wikipédia (2015), dentre outras. 
+Fontes das bandeiras; the flag research center, world flag database, world flags collection, multimediapalace, caccioppoli, vexilla mundi e wikipédia. Criação e Organização: Geografia na Internet: www.geogeral.com/
+bandeiradepartamento;http://geogeral.com/i/m/s/bol-oruro.gif
+Obs;Muncipio Com Asteristo (*) Capital do Departamento
+Alcamarca; [Oruro] - Bolívia; Pop.: 765;
+Amachuma; [Oruro] - Bolívia; Pop.: 743;
+Campamento Bolívar; [Oruro] - Bolívia; Pop.: 1.445;
+Caracollo; [Oruro] - Bolívia; Pop.: 5.705;
+Cataricahua; [Oruro] - Bolívia; Pop.: 641;
+Challapata; [Oruro] - Bolívia; Pop.: 9.974;
+Chuquiña; [Oruro] - Bolívia; Pop.: 1.124;
+Coipasa; [Oruro] - Bolívia; Pop.: 625;
+Corque; [Oruro] - Bolívia; Pop.: 1.090;
+Cruce Culta; [Oruro] - Bolívia; Pop.: 1.339;
+Curahuara de Carangas; [Oruro] - Bolívia; Pop.: 1.696;
+Eucaliptus (Tomás Barrón); [Oruro] - Bolívia; Pop.: 2.278;
+Huachacalla; [Oruro] - Bolívia; Pop.: 2.129;
+Huanuni; [Oruro] - Bolívia; Pop.: 17.848;
+La Joya; [Oruro] - Bolívia; Pop.: 2.345;
+Machacamarca (Machakamarka); [Oruro] - Bolívia; Pop.: 1.901;
+Opoqueri; [Oruro] - Bolívia; Pop.: 751;
+Oruro* (Ururu); [Oruro] - Bolívia; Pop.: 243.151;
+Pampa Aullagas; [Oruro] - Bolívia; Pop.: 677;
+Pazña; [Oruro] - Bolívia; Pop.: 1.407;
+Pisiga Bolívar; [Oruro] - Bolívia; Pop.: 926;
+Poopó; [Oruro] - Bolívia; Pop.: 1.789;
+Quelcata; [Oruro] - Bolívia; Pop.: 1.137;
+Sabaya; [Oruro] - Bolívia; Pop.: 739;
+Salinas de Garci Mendoza; [Oruro] - Bolívia; Pop.: 754;
+San Juan Pampa; [Oruro] - Bolívia; Pop.: 586;
+San Pedro de Condo; [Oruro] - Bolívia; Pop.: 671;
+Santiago de Huari; [Oruro] - Bolívia; Pop.: 3.884;
+Santuario de Quillacas; [Oruro] - Bolívia; Pop.: 1.085;
+Sevaruyo; [Oruro] - Bolívia; Pop.: 1.192;
+Soracachi; [Oruro] - Bolívia; Pop.: 619;
+Toledo; [Oruro] - Bolívia; Pop.: 884;
+Totoral; [Oruro] - Bolívia; Pop.: 1.188;
+Turco; [Oruro] - Bolívia; Pop.: 1.319;
+Vila Vila "A"; [Oruro] - Bolívia; Pop.: 616;

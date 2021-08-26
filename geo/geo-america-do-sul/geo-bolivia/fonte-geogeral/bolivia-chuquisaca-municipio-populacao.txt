@@ -1,0 +1,75 @@
+fonte;http://geogeral.com/h/b7/cidbolch.htm
+fonteatualizada;Esta página foi atualizada em 28/08/17
+Fonte;População Cálculo: World Gazetteer (2013). 
+Fontes complementares: IBGE (2015); CIA - The World Factbook (2015); 
+City Population; GeoHive (2015), Wikipédia (2015), dentre outras. 
+Fontes das bandeiras; the flag research center, world flag database, world flags collection, multimediapalace, caccioppoli, vexilla mundi e wikipédia. Criação e Organização: Geografia na Internet: www.geogeral.com/
+bandeiradepartamento;http://geogeral.com/i/m/s/bol-chuquisaca.gif
+Obs;Muncipio Com Asteristo (*) Capital do Departamento
+Abecia; [Chuquisaca] - Bolívia; Pop.: 1.022;
+Alcalá; [Chuquisaca] - Bolívia; Pop.: 1.169;
+Azurduy; [Chuquisaca] - Bolívia; Pop.: 1.532;
+Camargo; [Chuquisaca] - Bolívia; Pop.: 6.484;
+Candua; [Chuquisaca] - Bolívia; Pop.: 2.518;
+Capactala; [Chuquisaca] - Bolívia; Pop.: 802;
+Carama; [Chuquisaca] - Bolívia; Pop.: 695;
+Chaco; [Chuquisaca] - Bolívia; Pop.: 1.014;
+Charcas; [Chuquisaca] - Bolívia; Pop.: 1.325;
+Chuqui Chuqui; [Chuquisaca] - Bolívia; Pop.: 668;
+Cororo; [Chuquisaca] - Bolívia; Pop.: 757;
+Culpina; [Chuquisaca] - Bolívia; Pop.: 2.933;
+Duraznal; [Chuquisaca] - Bolívia; Pop.: 721;
+El Tholar; [Chuquisaca] - Bolívia; Pop.: 660;
+El Villar; [Chuquisaca] - Bolívia; Pop.: 678;
+Huacareta; [Chuquisaca] - Bolívia; Pop.: 1.864;
+Huajlaya; [Chuquisaca] - Bolívia; Pop.: 748;
+Inca Pampa; [Chuquisaca] - Bolívia; Pop.: 643;
+Incahuasi; [Chuquisaca] - Bolívia; Pop.: 1.029;
+Lampazar; [Chuquisaca] - Bolívia; Pop.: 947;
+Las Carreras; [Chuquisaca] - Bolívia; Pop.: 837;
+Macharetí; [Chuquisaca] - Bolívia; Pop.: 1.520;
+Malliri; [Chuquisaca] - Bolívia; Pop.: 820;
+Mama Huasi; [Chuquisaca] - Bolívia; Pop.: 693;
+Mara Pampa; [Chuquisaca] - Bolívia; Pop.: 889;
+Mendoza; [Chuquisaca] - Bolívia; Pop.: 773;
+Miraflores; [Chuquisaca] - Bolívia; Pop.: 730;
+Monteagudo; [Chuquisaca] - Bolívia; Pop.: 13.197;
+Muyupampa; [Chuquisaca] - Bolívia; Pop.: 3.156;
+Padcoyo; [Chuquisaca] - Bolívia; Pop.: 796;
+Padilla; [Chuquisaca] - Bolívia; Pop.: 4.000;
+Palacio Tambo; [Chuquisaca] - Bolívia; Pop.: 1.181;
+Palcapata; [Chuquisaca] - Bolívia; Pop.: 724;
+Pampa Huasi; [Chuquisaca] - Bolívia; Pop.: 1.546;
+Pasopaya; [Chuquisaca] - Bolívia; Pop.: 749;
+Pata Llajta; [Chuquisaca] - Bolívia; Pop.: 678;
+Potolo; [Chuquisaca] - Bolívia; Pop.: 629;
+Presto; [Chuquisaca] - Bolívia; Pop.: 1.106;
+Pueblo Bajo; [Chuquisaca] - Bolívia; Pop.: 842;
+Quemado; [Chuquisaca] - Bolívia; Pop.: 732;
+Redencion Pampa; [Chuquisaca] - Bolívia; Pop.: 1.901;
+Rodeo Chico; [Chuquisaca] - Bolívia; Pop.: 752;
+Sajlina Alta; [Chuquisaca] - Bolívia; Pop.: 1.431;
+San Isidro de Anfaya; [Chuquisaca] - Bolívia; Pop.: 792;
+San Juan del Pirai; [Chuquisaca] - Bolívia; Pop.: 872;
+San Lucas; [Chuquisaca] - Bolívia; Pop.: 1.897;
+San Miguel de las Pampas; [Chuquisaca] - Bolívia; Pop.: 706;
+San Pedro; [Chuquisaca] - Bolívia; Pop.: 657;
+Sauce Mayu; [Chuquisaca] - Bolívia; Pop.: 633;
+Serrano; [Chuquisaca] - Bolívia; Pop.: 4.013;
+Sopachuy; [Chuquisaca] - Bolívia; Pop.: 2.062;
+Soroma; [Chuquisaca] - Bolívia; Pop.: 798;
+Sotomayor; [Chuquisaca] - Bolívia; Pop.: 943;
+Sucre* (Sukri); [Chuquisaca] - Bolívia; Pop.: 351.877;
+Surima; [Chuquisaca] - Bolívia; Pop.: 690;
+Tajchi; [Chuquisaca] - Bolívia; Pop.: 686;
+Tarabuco; [Chuquisaca] - Bolívia; Pop.: 2.853;
+Tarvita; [Chuquisaca] - Bolívia; Pop.: 909;
+Thiyumayu; [Chuquisaca] - Bolívia; Pop.: 704;
+Tiguipa Estacion; [Chuquisaca] - Bolívia; Pop.: 932;
+Tojlasa; [Chuquisaca] - Bolívia; Pop.: 664;
+Tomina; [Chuquisaca] - Bolívia; Pop.: 1.371;
+Villa Serano; [Chuquisaca] - Bolívia; Pop.: 4.006;
+Yamparáez; [Chuquisaca] - Bolívia; Pop.: 1.260;
+Yotala; [Chuquisaca] - Bolívia; Pop.: 2.145;
+Yuquina Alta; [Chuquisaca] - Bolívia; Pop.: 784;
+Zudáñez; [Chuquisaca] - Bolívia; Pop.: 2.756;

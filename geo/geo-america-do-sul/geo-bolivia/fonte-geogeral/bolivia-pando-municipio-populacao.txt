@@ -1,0 +1,16 @@
+fonte;http://geogeral.com/h/b7/cidbolpa.htm
+fonteatualizada;Esta página foi atualizada em 28/08/17
+Fonte;População Cálculo: World Gazetteer (2013). 
+Fontes complementares: IBGE (2015); CIA - The World Factbook (2015); 
+City Population; GeoHive (2015), Wikipédia (2015), dentre outras. 
+Fontes das bandeiras; the flag research center, world flag database, world flags collection, multimediapalace, caccioppoli, vexilla mundi e wikipédia. Criação e Organização: Geografia na Internet: www.geogeral.com/
+bandeiradepartamento;http://geogeral.com/i/m/s/bol-pando.gif
+Obs;Muncipio Com Asteristo (*) Capital do Departamento
+Blanca Flor; [Pando] - Bolívia; Pop.: 1.040;
+Cobija*; [Pando] - Bolívia; Pop.: 59.632;
+El Sena; [Pando] - Bolívia; Pop.: 1.800;
+Gonzalo Moreno; [Pando] - Bolívia; Pop.: 980;
+Las Piedras; [Pando] - Bolívia; Pop.: 1.099;
+Montevideo; [Pando] - Bolívia; Pop.: 1.046;
+Porvenir; [Pando] - Bolívia; Pop.: 3.370;
+Puerto Rico; [Pando] - Bolívia; Pop.: 2.965;

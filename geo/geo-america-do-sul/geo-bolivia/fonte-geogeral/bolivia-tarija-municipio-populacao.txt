@@ -1,0 +1,65 @@
+fonte;http://geogeral.com/h/b7/cidboltj.htm
+fonteatualizada;Esta página foi atualizada em 28/08/17
+Fonte;População Cálculo: World Gazetteer (2013). 
+Fontes complementares: IBGE (2015); CIA - The World Factbook (2015); 
+City Population; GeoHive (2015), Wikipédia (2015), dentre outras. 
+Fontes das bandeiras; the flag research center, world flag database, world flags collection, multimediapalace, caccioppoli, vexilla mundi e wikipédia. Criação e Organização: Geografia na Internet: www.geogeral.com/
+bandeiradepartamento;http://geogeral.com/i/m/s/bol-tarija.gif
+Obs;Muncipio Com Asteristo (*) Capital do Departamento
+Arrozales; [Tarija] - Bolívia; Pop.: 1.177;
+Barredero; [Tarija] - Bolívia; Pop.: 885;
+Bermejo; [Tarija] - Bolívia; Pop.: 36.148;
+Caigua; [Tarija] - Bolívia; Pop.: 1.099;
+Caiza "J"; [Tarija] - Bolívia; Pop.: 1.001;
+Calama; [Tarija] - Bolívia; Pop.: 925;
+Calamuchita; [Tarija] - Bolívia; Pop.: 1.512;
+Campo Grande; [Tarija] - Bolívia; Pop.: 1.604;
+Campo Pajoso; [Tarija] - Bolívia; Pop.: 980;
+Canasmoro; [Tarija] - Bolívia; Pop.: 1.133;
+Carachimayo; [Tarija] - Bolívia; Pop.: 1.267;
+Caraparí; [Tarija] - Bolívia; Pop.: 1.667;
+Chaguaya; [Tarija] - Bolívia; Pop.: 1.014;
+Coimata; [Tarija] - Bolívia; Pop.: 803;
+Comunidad Campo Grande; [Tarija] - Bolívia; Pop.: 2.000;
+Crevaux; [Tarija] - Bolívia; Pop.: 1.017;
+Del Sur; [Tarija] - Bolívia; Pop.: 1.115;
+El Carmen (Caipitandi); [Tarija] - Bolívia; Pop.: 1.411;
+El Puente; [Tarija] - Bolívia; Pop.: 1.400;
+Emborozu; [Tarija] - Bolívia; Pop.: 817;
+Entre Ríos; [Tarija] - Bolívia; Pop.: 3.754;
+Guerra Huayco; [Tarija] - Bolívia; Pop.: 1.199;
+Iscayachi; [Tarija] - Bolívia; Pop.: 964;
+La Grampa; [Tarija] - Bolívia; Pop.: 1.627;
+Lajas Merced; [Tarija] - Bolívia; Pop.: 877;
+Linares; [Tarija] - Bolívia; Pop.: 1.565;
+Loma Alta; [Tarija] - Bolívia; Pop.: 750;
+Los Naranjos; [Tarija] - Bolívia; Pop.: 703;
+Muturayo; [Tarija] - Bolívia; Pop.: 772;
+Ojo del Agua; [Tarija] - Bolívia; Pop.: 734;
+Orozas Arriba; [Tarija] - Bolívia; Pop.: 747;
+Padcaya; [Tarija] - Bolívia; Pop.: 1.759;
+Palmar Chico; [Tarija] - Bolívia; Pop.: 2.251;
+Palos Blancos; [Tarija] - Bolívia; Pop.: 1.064;
+Porcelana; [Tarija] - Bolívia; Pop.: 1.245;
+Portillo; [Tarija] - Bolívia; Pop.: 1.096;
+Pueblo Nuevo; [Tarija] - Bolívia; Pop.: 761;
+Rancho Norte; [Tarija] - Bolívia; Pop.: 1.577;
+Rosillas; [Tarija] - Bolívia; Pop.: 1.281;
+San Alberto; [Tarija] - Bolívia; Pop.: 790;
+San Isidro; [Tarija] - Bolívia; Pop.: 2.992;
+San Lorenzo; [Tarija] - Bolívia; Pop.: 3.654;
+San Mateo; [Tarija] - Bolívia; Pop.: 1.307;
+San Telmo; [Tarija] - Bolívia; Pop.: 905;
+Sanandita; [Tarija] - Bolívia; Pop.: 1.463;
+Sur; [Tarija] - Bolívia; Pop.: 826;
+Tarairí; [Tarija] - Bolívia; Pop.: 770;
+Tarija* (San Bernardo de Tarija); [Tarija] - Bolívia; Pop.: 244.522;
+Tierras Nuevas; [Tarija] - Bolívia; Pop.: 952;
+Tiguipa; [Tarija] - Bolívia; Pop.: 1.289;
+Tolomosa Grande; [Tarija] - Bolívia; Pop.: 1.237;
+Tomatas Grande; [Tarija] - Bolívia; Pop.: 890;
+Turumayo; [Tarija] - Bolívia; Pop.: 863;
+Valle de Concepción; [Tarija] - Bolívia; Pop.: 1.919;
+Villamontes (Villa Montes); [Tarija] - Bolívia; Pop.: 28.095;
+Yacuiba; [Tarija] - Bolívia; Pop.: 100.312;
+Yaguacua; [Tarija] - Bolívia; Pop.: 1.299;

@@ -1,0 +1,47 @@
+fonte;http://geogeral.com/h/b7/cidbolbe.htm
+fonteatualizada;Esta página foi atualizada em 28/08/17
+Fonte;População Cálculo: World Gazetteer (2013). 
+Fontes complementares: IBGE (2015); CIA - The World Factbook (2015); 
+City Population; GeoHive (2015), Wikipédia (2015), dentre outras. 
+Fontes das bandeiras; the flag research center, world flag database, world flags collection, multimediapalace, caccioppoli, vexilla mundi e wikipédia. Criação e Organização: Geografia na Internet: www.geogeral.com/
+bandeiradepartamento;http://geogeral.com/i/m/s/bol-beni2.gif
+Obs;Muncipio Com Asteristo (*) Capital do Departamento
+Alto Ivon; [Beni] - Bolívia; Pop.: 646;
+Baures; [Beni] - Bolívia; Pop.: 3.268;
+Bella Vista; [Beni] - Bolívia; Pop.: 2.722;
+Cachuela Esperanza; [Beni] - Bolívia; Pop.: 1.840;
+Camiaco; [Beni] - Bolívia; Pop.: 631;
+Casarabe; [Beni] - Bolívia; Pop.: 1.206;
+Desengaño; [Beni] - Bolívia; Pop.: 1.078;
+El Carmen; [Beni] - Bolívia; Pop.: 1.093;
+El Carmen del Iruyañez; [Beni] - Bolívia; Pop.: 785;
+El Perú; [Beni] - Bolívia; Pop.: 1.197;
+Exaltación; [Beni] - Bolívia; Pop.: 1.992;
+Guayaramerín (Puerto Guayaramerín); [Beni] - Bolívia; Pop.: 39.469;
+Huacaraje; [Beni] - Bolívia; Pop.: 3.160;
+Jasiaquiri; [Beni] - Bolívia; Pop.: 730;
+Loma Suárez; [Beni] - Bolívia; Pop.: 1.050;
+Loreto; [Beni] - Bolívia; Pop.: 1.137;
+Magdalena; [Beni] - Bolívia; Pop.: 4.805;
+Orobayaya; [Beni] - Bolívia; Pop.: 627;
+Puente San Pablo; [Beni] - Bolívia; Pop.: 2.306;
+Puerto Barador; [Beni] - Bolívia; Pop.: 853;
+Remanso; [Beni] - Bolívia; Pop.: 830;
+Reyes; [Beni] - Bolívia; Pop.: 9.818;
+Riberalta; [Beni] - Bolívia; Pop.: 101.455;
+Rosario del Yata; [Beni] - Bolívia; Pop.: 887;
+Rurrenabaque (Puerto Rurrenabaque); [Beni] - Bolívia; Pop.: 15.979;
+San Borja; [Beni] - Bolívia; Pop.: 27.631;
+San Francisco; [Beni] - Bolívia; Pop.: 982;
+San Ignacio; [Beni] - Bolívia; Pop.: 20.161;
+San Joaquín; [Beni] - Bolívia; Pop.: 4.781;
+San José; [Beni] - Bolívia; Pop.: 735;
+San José del Cabitu; [Beni] - Bolívia; Pop.: 630;
+San Lorenzo de Moxos; [Beni] - Bolívia; Pop.: 1.534;
+San Ramón; [Beni] - Bolívia; Pop.: 5.851;
+Santa Ana (Santa Ana del Yacuma); [Beni] - Bolívia; Pop.: 2.975;
+Santa Ana de Yacuma; [Beni] - Bolívia; Pop.: 17.375;
+Santa Rosa de Yacuma; [Beni] - Bolívia; Pop.: 5.427;
+Trinidad*; [Beni] - Bolívia; Pop.: 103.661;
+Tumichucua; [Beni] - Bolívia; Pop.: 748;
+Yucumo; [Beni] - Bolívia; Pop.: 4.169;
