@@ -6,6 +6,7 @@ Descrição do Dados:
 - Os arquivos disponibilizado aqui no GitHub, são cópias do SISCOMEX e podem não ser atuais.
 - Você pode obter os dados diretamente no site da SISCOMEX entrando em "Países - códigos para uso na NF-e (atulizado em dd/mm/yyyy)" 
 - Link direto para o arquivo http://siscomex.gov.br/wp-content/uploads/2021/01/PAISES.xlsx
+- Leia: Para entender como usados os códigos dos países no SISCOMEX e SPED NF-e https://www.fazcomex.com.br/blog/codigo-de-pais-para-siscomex-e-nfe/
 
 Estrutura dos dados:
 - O arquivo original PAISES.xlsx no site da SISCOMEX foi renomeado aqui no GitHub para PaisesSiscomexYYYYMMDD.xlsx
