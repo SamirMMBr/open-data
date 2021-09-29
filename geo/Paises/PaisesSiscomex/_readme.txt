@@ -39,6 +39,7 @@ Estrutura dos dados:
 
 Método usado para estudo:
 - Salvar o arquivo PaisesSiscomexYYYYMMDD.xlsx localmente no seu computador ( C:\ )
+- O arquivo PaisesSiscomex20210801.xlsx possui erro de Ano 19965 na coluna Filiação na OMC, tratar no ETL
 - No Excel usar o Power Query para o ETL tratamento dos dados e Power View para criar os relatórios
 - No Power Desktop usar o Power Query para o ETL para o ETL tratamento dos dados e depois criar os relatórios
 - Já no Power Query, usadas primeiras 8 linhas para entender os dados e criar a etapas de tratamento dos dados
